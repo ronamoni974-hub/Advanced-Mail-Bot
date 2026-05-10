@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.15.2
+firebase-admin==6.4.0
+flask==3.0.0
+requests==2.31.0
+mailtd==0.1.2
