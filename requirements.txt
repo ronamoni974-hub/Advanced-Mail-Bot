@@ -1,6 +1,5 @@
 pyTelegramBotAPI
 requests
 Flask
-pyotp
 firebase-admin
 mailtd
