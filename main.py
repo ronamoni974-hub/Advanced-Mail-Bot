@@ -268,7 +268,7 @@ def handle_suspension(chat_id):
         f"<i>(Tap ID to copy)</i>\n\n"
         f"অ্যাকাউন্ট রিকভার করতে আপনার User ID কপি করে অ্যাডমিনের সাথে যোগাযোগ করুন।"
     )
-    markup = InlineKeyboardMarkup().add(InlineKeyboardButton("👨‍💻 Contact Admin", url="https://t.me/Ad_Walid"))
+    markup = InlineKeyboardMarkup().add(InlineKeyboardButton("👨‍💻 Contact Admin", url="https://t.me/tamim_king77"))
     try: bot.send_message(chat_id, suspend_msg, reply_markup=markup, disable_web_page_preview=True)
     except: pass
 
@@ -571,7 +571,7 @@ def handle_text(message):
             "• Engine: MailTD Architecture\n"
             "• Performance: Zero-Lag Sync & Anti-Spam\n"
             "• Developer: <a href='https://t.me/Ad_Walid'>Md Walid</a>\n"
-            "• Bot Admin: <a href='https://t.me/Ad_Walid'>Md Walid</a>\n\n"
+            "• Bot Admin: <a href='https://t.me/tamim_king77'>Tamim</a>\n\n"
             "<i>Crafted with modern interface aesthetics.</i>"
         )
         bot.send_message(chat_id, about_text, disable_web_page_preview=True)
