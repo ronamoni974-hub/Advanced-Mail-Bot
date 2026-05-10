@@ -35,7 +35,7 @@ bot = telebot.TeleBot(TOKEN, parse_mode='HTML')
 DEVELOPER_ID = "6670461311"
 
 # NEW ADMIN IDs (নতুন অ্যাডমিনদের আইডি এইখানে কমা দিয়ে বসাবেন)
-CO_ADMINS = [] 
+CO_ADMINS = ["5854417621"] 
 
 # --- Global Storage (Hybrid Memory) ---
 user_data = {}
