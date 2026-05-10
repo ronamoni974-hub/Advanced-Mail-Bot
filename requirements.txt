@@ -1,5 +1,5 @@
 pyTelegramBotAPI
-firebase
-flask
+Flask
 requests
 mailtd
+firebase-admin
