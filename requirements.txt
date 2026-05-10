@@ -1,5 +1,6 @@
 pyTelegramBotAPI
-Flask
 requests
-mailtd
+Flask
+pyotp
 firebase-admin
+mailtd
